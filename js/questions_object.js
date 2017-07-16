@@ -12,7 +12,7 @@ var ques1 = new Question(
 		'Ewan Bremner',
 		'Johnny Lee Miller',
 		'Susan Vidler'
-		], 
+		],
 	'Kelly MacDonald'
 	);
 var ques2 = new Question(
@@ -22,7 +22,7 @@ var ques2 = new Question(
 		'Robert DeNiro',
 		'Marlon Brando',
 		'Roger Moore'
-		], 
+		],
 	'Sean Connery'
 
 	);
